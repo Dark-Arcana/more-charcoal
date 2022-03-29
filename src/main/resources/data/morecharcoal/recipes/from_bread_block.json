@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morecharcoal:bread_charcoal_block"
+    }
+  ],
+  "result": {
+    "item": "morecharcoal:bread_charcoal",
+    "count": 9
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "minecraft:melon_slice"
+  },
+  "result": "morecharcoal:melon_charcoal"
+}

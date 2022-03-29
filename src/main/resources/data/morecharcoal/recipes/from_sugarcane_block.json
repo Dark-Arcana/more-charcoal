@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morecharcoal:sugarcane_charcoal_block"
+    }
+  ],
+  "result": {
+    "item": "morecharcoal:sugarcane_charcoal",
+    "count": 9
+  }
+}

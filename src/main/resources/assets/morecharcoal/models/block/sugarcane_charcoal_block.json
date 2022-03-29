@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "morecharcoal:blocks/sugarcane_charcoal_block"
+	}
+}

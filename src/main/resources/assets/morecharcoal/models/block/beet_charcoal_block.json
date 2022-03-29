@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "morecharcoal:blocks/beet_charcoal_block"
+	}
+}

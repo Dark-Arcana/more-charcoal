@@ -1,0 +1,7 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "minecraft:sugar_cane"
+  },
+  "result": "morecharcoal:sugarcane_charcoal"
+}

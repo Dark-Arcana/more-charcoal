@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "morecharcoal:sugarcane_charcoal"
+    }
+  },
+  "result": {
+    "item": "morecharcoal:sugarcane_charcoal_block"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "morecharcoal:chorus_charcoal"
+    }
+  },
+  "result": {
+    "item": "morecharcoal:chorus_charcoal_block"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morecharcoal:potato_charcoal_block"
+    }
+  ],
+  "result": {
+    "item": "morecharcoal:potato_charcoal",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morecharcoal:egg_charcoal_block"
+    }
+  ],
+  "result": {
+    "item": "morecharcoal:egg_charcoal",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morecharcoal:bread_charcoal"
+    }
+  ],
+  "result": {
+    "item": "morecharcoal:charcoal_chunk",
+    "count": 6
+  }
+}

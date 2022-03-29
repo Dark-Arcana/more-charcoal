@@ -1,0 +1,4 @@
+1.14.4-1.0.3
+===
+-Will no longer throw "Server returned HTTP response code: 400 for URL: http://myurl.me/" error on startup
+-Fixed Charcoal Block -> (Vanilla) Charcoal recipe

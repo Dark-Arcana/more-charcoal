@@ -1,0 +1,7 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "minecraft:baked_potato"
+  },
+  "result": "morecharcoal:potato_charcoal"
+}

@@ -1,0 +1,7 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "result": "morecharcoal:bread_charcoal"
+}
